@@ -11,7 +11,7 @@ Text classification aims at labeling natural language texts into a fixed number 
 categories.
 
 
-Pre-processing
+## Pre-processing
 
 ● Text cleaning 
 Tweets contain different kind of noise that can harm machine learning algorithms /n
@@ -29,7 +29,7 @@ Baseline preprocessing methods. For example wordnet corpus to find out the sense
 different words if needed. 
 
 
-Methods
+## Methods
 
 ● Logistic Regression 
 
