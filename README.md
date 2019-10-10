@@ -10,9 +10,10 @@ what their consumers write in natural language and get valuable insights in orde
 Text classification aims at labeling natural language texts into a fixed number of predetermined
 categories.
 
-/n
+
 Pre-processing
-● Text cleaning /n
+
+● Text cleaning 
 Tweets contain different kind of noise that can harm machine learning algorithms /n
 performance. We need to carefully get rid of them. To this particular task we will take advantage
 of regular expressions. /n
@@ -20,14 +21,16 @@ of regular expressions. /n
 People make typos (‘cudtomers’ ), use abbreviations (‘ppl’), acronyms (‘asap’) and
 different words have the same meaning (‘iphone’ and ‘phone’). These are just four examples of
 words that need to be fixed. This examples were found by inspecting the frequency vocabulary.
-For bigger datasets or automated processing spell checker can be used /n
+For bigger datasets or automated processing spell checker can be used 
 ● NLTK features /n
 Baseline preprocessing methods. For example wordnet corpus to find out the senses of
-different words if needed. /n /n
+different words if needed. 
+
+
 Methods
-● Logistic Regression /n
+● Logistic Regression 
 ● SVM /n
-● Gaussian Naive Bayes classifier /n
-● KNN /n
-● Ensemble classifier /n
-● Convolutional Neural Network /n
+● Gaussian Naive Bayes classifier 
+● KNN 
+● Ensemble classifier 
+● Convolutional Neural Network 
