@@ -30,6 +30,7 @@ different words if needed.
 
 
 Methods
+
 ● Logistic Regression 
 
 ● SVM 
