@@ -16,21 +16,28 @@ Pre-processing
 ● Text cleaning 
 Tweets contain different kind of noise that can harm machine learning algorithms /n
 performance. We need to carefully get rid of them. To this particular task we will take advantage
-of regular expressions. /n
-● Spelling correction /n
+of regular expressions. 
+
+● Spelling correction 
 People make typos (‘cudtomers’ ), use abbreviations (‘ppl’), acronyms (‘asap’) and
 different words have the same meaning (‘iphone’ and ‘phone’). These are just four examples of
 words that need to be fixed. This examples were found by inspecting the frequency vocabulary.
 For bigger datasets or automated processing spell checker can be used 
-● NLTK features /n
+
+● NLTK features 
 Baseline preprocessing methods. For example wordnet corpus to find out the senses of
 different words if needed. 
 
 
 Methods
 ● Logistic Regression 
-● SVM /n
+
+● SVM 
+
 ● Gaussian Naive Bayes classifier 
+
 ● KNN 
+
 ● Ensemble classifier 
+
 ● Convolutional Neural Network 
